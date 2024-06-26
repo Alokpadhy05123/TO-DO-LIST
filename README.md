@@ -31,19 +31,7 @@ Make sure you have the following installed:
 
 ### Installation
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
-   ```
-
-2. **Navigate to the Project Directory:**
-
-   ```bash
-   cd todo-list
-   ```
-
-3. **Open `index.html` in a Browser:**
+1. **Open `index.html` in a Browser:**
 
    Open the `index.html` file in your preferred web browser.
 
